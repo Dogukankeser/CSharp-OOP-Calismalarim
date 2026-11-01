@@ -2,7 +2,7 @@
 using System.Reflection.Metadata.Ecma335;
 using System.Security.Cryptography.X509Certificates;
 
-namespace DersNotlari.Uygulamalar
+namespace BankaHesabi
 {
         class BankaHesabi
         {
