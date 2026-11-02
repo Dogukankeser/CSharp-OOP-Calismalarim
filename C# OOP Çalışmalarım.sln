@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankaHesabi", "BankaHesabi\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrenciKarne", "OgrenciKarne\OgrenciKarne.csproj", "{5D24F93C-638D-4E13-8A4A-423111286A58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonelKarti", "uygulamalar3\PersonelKarti.csproj", "{5D8925EA-D9EE-4B76-B32E-F287545F5AE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonelKarti", "PersonelKarti\PersonelKarti.csproj", "{5D8925EA-D9EE-4B76-B32E-F287545F5AE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
